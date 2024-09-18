@@ -18,6 +18,4 @@
   <hr />
 </div>
 
-# 🔰 AuthMatrix
-
-Grid-based authorization testing across multiple users and roles.
+# OTP Generator
